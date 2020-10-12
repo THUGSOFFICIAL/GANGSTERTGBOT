@@ -17,7 +17,7 @@ GENERATED FROM [THIS REPOSITORY](https://github.com/gangsterkimng/GANGSTERTGBOT)
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gangsterkimng/GANGSTERTGBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/THUGSOFFICIAL/GANGSTERTGBOT)
 
 
 
